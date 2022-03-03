@@ -1,0 +1,4 @@
+#!/bin/bash
+file -c -m school nagic
+chmod u+x school.mgc
+
